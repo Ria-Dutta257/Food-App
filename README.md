@@ -3,6 +3,12 @@ Food Delivery app using MERN
 
 A full-stack food delivery web application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. This app offers a smooth, real-time food ordering experience for customers and powerful admin tools for restaurant management.
 
+## 🌐 Live Demo Links
+
+- 🍔 **Frontend (User App):** [https://food-app-frontend-rvms.onrender.com](https://food-app-frontend-rvms.onrender.com)  
+- ⚙️ **Backend (API):** [https://food-app-backend-3w61.onrender.com](https://food-app-backend-3w61.onrender.com)  
+- 🧑‍💼 **Admin Panel:** [https://food-app-admin-6njd.onrender.com](https://food-app-admin-6njd.onrender.com)
+
 ## 🎯 Purpose of the Project
 
 The goal of this project is to simulate a real-world online food ordering system. It enables users to conveniently browse menus, filter food categories, add items to their cart, securely place orders with online payment, and track order status — all from a responsive, modern UI. For restaurant admins, the app provides an intuitive dashboard to manage food items and monitor delivery progress.
